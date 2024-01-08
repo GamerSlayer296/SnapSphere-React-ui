@@ -22,18 +22,34 @@ Welcome to SnapSphere, a modern social media platform crafted with a focus on us
 ## Key Features
 1. **User Authentication:**
 * Secure Authentication: Built with the React Context API, SnapSphere ensures that user data remains protected and offers functionalities for user registration, login, and profile management.
+
+  ![image](https://github.com/GamerSlayer296/SnapSphere-React-ui/assets/117532468/0102d816-2823-42c2-aa7a-bd174ce8272b)
+  ![image](https://github.com/GamerSlayer296/SnapSphere-React-ui/assets/117532468/16593de7-03cd-4bfd-a59d-6951816f2d6b)
+
+
   
 2. **Dynamic Theming:**
 * Customizable Themes: Experience SnapSphere in your preferred ambiance with our dynamic theming system, offering both light and dark modes. The integration of SCSS and React   provides a seamless transition between themes, adapting to user preferences effortlessly.
+* 
+  ![image](https://github.com/GamerSlayer296/SnapSphere-React-ui/assets/117532468/6bd0819a-7e42-4102-8a17-ff379695d891)
+
   
 3. **Responsive Design:**
 Optimized for All Devices: With SCSS mixins, SnapSphere guarantees a responsive design tailored for mobile and tablet users, ensuring a consistent and enjoyable user experience across various screen sizes.
 
-4. **Profile Management:**
-Personalized Profiles: Users can create, personalize, and manage their profiles, enriching their visibility with dedicated sections for user details, social media links, and a dynamic feed for shared moments.
+![image](https://github.com/GamerSlayer296/SnapSphere-React-ui/assets/117532468/34cdc659-0669-4a5b-b120-9ae48fece4d6)
 
-5. **Navigation & Layout:**
+
+5. **Profile Management:**
+Personalized Profiles: Users can create, personalize, and manage their profiles, enriching their visibility with dedicated sections for user details, social media links, and a dynamic feed for shared moments.
+![image](https://github.com/GamerSlayer296/SnapSphere-React-ui/assets/117532468/f8f85f1d-a218-4a7e-a0f0-7ecae776fff1)
+
+
+7. **Navigation & Layout:**
 * Intuitive Navigation: SnapSphere's intuitive navigation system, comprising a top navbar and sidebars, offers easy access to different sections, enhancing user accessibility and interaction.
+  ![image](https://github.com/GamerSlayer296/SnapSphere-React-ui/assets/117532468/17e6494f-ecc6-4d96-b161-ab9f63aa2dd3)
+
+  
 
 6. **Protection & Security:**
 Safe & Secure: SnapSphere employs protected routes and secure authentication practices, prioritizing user data privacy and ensuring a safe environment for all users.
